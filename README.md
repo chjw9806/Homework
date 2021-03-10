@@ -6,3 +6,4 @@
 
 # week02
 화면 캡쳐
+![image](https://user-images.githubusercontent.com/79883718/110577894-f5017600-81a6-11eb-85a5-bada984b5b8a.png)
