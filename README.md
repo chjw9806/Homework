@@ -10,3 +10,7 @@
 
 -In-class homework: Week 2 Day
 ![image](https://user-images.githubusercontent.com/79883718/110586830-1b7add80-81b6-11eb-9a69-a2c3d26ca14d.png)
+
+# week03
+# Inclass Homework: Activity Lifecycle in Action 
+*유튜브 링크 - https://www.youtube.com/watch?v=9ZDVfqIoDFk
